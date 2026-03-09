@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Ahmed Bouhlal — an AI & Systems Developer passionate about building intelligent, modular, and high-performance software.<br>💡 I love transforming complex ideas into scalable systems — from real-time emotion tracking to neural optimizers and AI-driven project validators.<br>🎯 Currently studying AI & Embedded Systems at EST, while self-learning deep learning and Transformers.<br>🚀 My mission: bridge AI and real-world impact — creating tools that empower people, accelerate learning, and inspire innovation.<br>🧠 “Build with vision. Execute with discipline.”
+👋 Hi, I’m Ahmed Bouhlal — an AI & Systems Developer passionate about building intelligent, modular, and high-performance software.<br>💡 I love transforming complex ideas into scalable systems — from real-time emotion tracking to neural optimizers and AI-driven project validators.<br>🎯 Currently studying AI & Intelligent Systems at EST, while self-learning deep learning and Transformers.<br>🚀 My mission: bridge AI and real-world impact — creating tools that empower people, accelerate learning, and inspire innovation.<br>🧠 “Build with vision. Execute with discipline.”
 
 
 ## 🌐 Socials:
